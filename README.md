@@ -224,4 +224,5 @@ BuildUp uses a server-side AI provider adapter (`src/lib/ai/adapter.ts`) that ne
 | **Live API Keys** | ⚙️ Configurable | Safe fallbacks active until user inputs real keys |
 #   B u i l d U p  
  #   b u i l d u p  
+ #   b u i l d u p  
  
